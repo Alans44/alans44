@@ -66,9 +66,9 @@ text, tspan {white-space: pre;}
 
 <text x="555" y="30" fill="#24292f">
   <tspan x="555" y="30">alans@fuentes</tspan> ——————————————————————————————————————————————
-  <tspan x="555" y="50"  class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Windows 10, Ubuntu 22.04, iOS 18.5</tspan>
-  <tspan x="555" y="70"  class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................... </tspan><tspan class="value" id="age_data">21 years, 1 month, 17 days</tspan>
-  <tspan x="555" y="90"  class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">University of Miami</tspan>
+  <tspan x="555" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Windows 10, Ubuntu 22.04, iOS 18.5</tspan>
+  <tspan x="555" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">22 years, 2 months, 13 days</tspan>
+  <tspan x="555" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">University of Miami</tspan>
   <tspan x="555" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">CS &amp; Math Student</tspan>
   <tspan x="555" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Vim 9.1 w/Tmux 3.5, VS Code 1.1, Ghidra 11.3</tspan>
   <tspan x="555" y="150" class="cc">. </tspan>
@@ -89,8 +89,8 @@ text, tspan {white-space: pre;}
   <tspan x="555" y="410" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">alans04</tspan>
 
   <tspan x="555" y="450">- GitHub Stats (work in progress)</tspan> ——————————————————————————
-  <tspan x="555" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .. </tspan><tspan class="value" id="repo_data">05</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">12</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ................ </tspan><tspan class="value" id="star_data">3</tspan>
-  <tspan x="555" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .................. </tspan><tspan class="value" id="commit_data">77</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ............ </tspan><tspan class="value" id="follower_data">1</tspan>
-  <tspan x="555" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">4,627</tspan> (<tspan class="addColor" id="loc_add">15,340</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"></tspan><tspan class="delColor" id="loc_del">10,713</tspan><tspan class="delColor">--</tspan>)
+  <tspan x="555" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">10</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">36</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">0</tspan>
+  <tspan x="555" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................... </tspan><tspan class="value" id="commit_data">112</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">4</tspan>
+  <tspan x="555" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots"> ... </tspan><tspan class="value" id="loc_data">92,341</tspan> (<tspan class="addColor" id="loc_add">125,481</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">33,140</tspan><tspan class="delColor">--</tspan>)
 </text>
 </svg>
