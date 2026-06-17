@@ -19,7 +19,7 @@ import requests
 from dateutil import relativedelta
 from lxml import etree
 
-# ──────────────────────────────────────
+# ──────────────────────────────────────a
 #  ░░ USER CONFIG ░░                   
 # ──────────────────────────────────────
 USER_NAME: str = os.getenv("USER_NAME", "Alans44")
@@ -139,8 +139,8 @@ if __name__=='__main__':
 
     star_data,_ = graph_repos_stars('stars',["OWNER"]),0
     repo_data,_ = graph_repos_stars('repos',["OWNER"]),0
-    contrib_data=_=graph_repos_stars('repos',["OWNER","COLLABORATOR","ORGANIZATION_MEMBER"]),0
-    follower_data,_=follower_getter(USER_NAME),0
+    contrib_data,_ = graph_repos_stars('repos',["OWNER","COLLABORATOR","ORGANIZATION_MEMBER"]),0
+    follower_data,_ = follower_getter(USER_NAME),0
     commit_data=0;loc_total=['0','0','0']
 
     for svg in SVG_FILES:
